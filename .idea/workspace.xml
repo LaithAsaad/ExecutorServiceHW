@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2698c064-0a25-4fa9-b373-a085833ed750" name="Changes" comment="first step">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/summers/Summer.java" afterDir="false" />
-    </list>
+    <list default="true" id="2698c064-0a25-4fa9-b373-a085833ed750" name="Changes" comment="third step" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +52,21 @@
       <option name="project" value="LOCAL" />
       <updated>1700070627028</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second step">
+      <created>1700070804720</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700070804720</updated>
+    </task>
+    <task id="LOCAL-00003" summary="third step">
+      <created>1700071001900</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700071001900</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,6 +82,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first step" />
-    <option name="LAST_COMMIT_MESSAGE" value="first step" />
+    <MESSAGE value="second step" />
+    <MESSAGE value="third step" />
+    <option name="LAST_COMMIT_MESSAGE" value="third step" />
   </component>
 </project>

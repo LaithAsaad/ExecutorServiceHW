@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2698c064-0a25-4fa9-b373-a085833ed750" name="Changes" comment="third step" />
+    <list default="true" id="2698c064-0a25-4fa9-b373-a085833ed750" name="Changes" comment="fourth step with main tester">
+      <change afterPath="$PROJECT_DIR$/src/test/java/ParallelSummersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +26,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="2YDqGbLJfns60iFSnvDoXlK7JEf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -36,6 +42,67 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="JUnit.ParallelSummersTest.testSixteenThread">
+    <configuration name="ParallelSummersTest.testEightThread" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExecutorServiceHW" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParallelSummersTest" />
+      <option name="METHOD_NAME" value="testEightThread" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelSummersTest.testFourThread" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExecutorServiceHW" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParallelSummersTest" />
+      <option name="METHOD_NAME" value="testFourThread" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelSummersTest.testSingleThread" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExecutorServiceHW" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParallelSummersTest" />
+      <option name="METHOD_NAME" value="testSingleThread" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelSummersTest.testSixteenThread" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExecutorServiceHW" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParallelSummersTest" />
+      <option name="METHOD_NAME" value="testSixteenThread" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParallelSummersTest.testTwoThread" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ExecutorServiceHW" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParallelSummersTest" />
+      <option name="METHOD_NAME" value="testTwoThread" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ParallelSummersTest.testSixteenThread" />
+        <item itemvalue="JUnit.ParallelSummersTest.testEightThread" />
+        <item itemvalue="JUnit.ParallelSummersTest.testFourThread" />
+        <item itemvalue="JUnit.ParallelSummersTest.testTwoThread" />
+        <item itemvalue="JUnit.ParallelSummersTest.testSingleThread" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700071001900</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fourth step with main tester">
+      <created>1700071261635</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700071261635</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +158,7 @@
     <MESSAGE value="first step" />
     <MESSAGE value="second step" />
     <MESSAGE value="third step" />
-    <option name="LAST_COMMIT_MESSAGE" value="third step" />
+    <MESSAGE value="fourth step with main tester" />
+    <option name="LAST_COMMIT_MESSAGE" value="fourth step with main tester" />
   </component>
 </project>
